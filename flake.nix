@@ -22,6 +22,8 @@
         python3
 
         gnumake
+
+        capstone
       ];
     };
   });
