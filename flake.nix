@@ -20,6 +20,8 @@
         clang-tools
 
         python3
+
+        gnumake
       ];
     };
   });
